@@ -1,27 +1,9 @@
-# Primeiro Exercicio - Grupo 5 SUBGRUPO 2
- Primeiro exercio em Grupo do Embarca tech
- SUBGRUPO 2
+# Primeiro Exercício - Grupo 5, Subgrupo 2
+Este é o primeiro exercício em grupo do programa EmbarcaTech, realizado pelo Grupo 5, Subgrupo 2 
+Mentor:  Professor Giovanni Antherreli Lima da Silva.
 
- GRUPO 5, SUBGRUPO 2, e tem como mentor(a) o(a) professor(a) GIOVANNI ANTHERRELI LIMA DA SILVA.
+# Participantes Ativos
+Daniel Silva de Souza
 
- ANTONIO APARECIDO MEDEIROS SANTANA
+(Adicione seu nome aqui)
 
- CLARISSE SANTANA LEITE
- 
- DANIEL SILVA DE SOUZA
-
- DANIEL VICTOR LIMA SOUZA SANTOS
-
- GABRIELA DA SILVA
-
- GISELE IZIDIO DOURADO
-
- GUILHERME NUNES NOVAIS
-
- HENRIQUE DA SILVA BISPO
-
- MARIA EUGÊNIA CAVALCANTI GOMES DA SILVA
- 
- WESLEY LIMA GOMES FILHO
-
- PARTICIPANTES ATIVOS (ADD YOUR NAME)
